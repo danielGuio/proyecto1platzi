@@ -1,6 +1,9 @@
 esta es una historia
 
-este es un archivo de ejemplo para realizar cambios en git
+se realizan ciertos cambios para poder haer un nuevo commit
+se realizan ciertos cambios para poder haer un nuevo commit
+se realizan ciertos cambios para poder haer un nuevo commit
+v
 
 
 archivo de texto .txt
