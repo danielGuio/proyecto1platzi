@@ -4,8 +4,8 @@ se realizan ciertos cambios para poder haer un nuevo commit
 se realizan ciertos cambios para poder haer un nuevo commit
 se realizan ciertos cambios para poder haer un nuevo commit
 v
+texto creado para hacer un pull request de ejemplo
 
 
 archivo de texto .txt
-archivo de testo 
 archivo de testo
