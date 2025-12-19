@@ -1,9 +1,5 @@
 esta es una historia
 
-se realizan ciertos cambios para poder haer un nuevo commit
-se realizan ciertos cambios para poder haer un nuevo commit
-se realizan ciertos cambios para poder haer un nuevo commit
-v
 texto creado para hacer un pull request de ejemplo
 
 
